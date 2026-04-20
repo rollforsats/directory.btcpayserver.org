@@ -60,13 +60,17 @@
         return;
       }
 
-      var origin;
+      var origin, nonce;
       try {
-        // state is base64-encoded (standard or url-safe) UTF-8 origin URL.
+        // state is base64-encoded (standard or url-safe) UTF-8: "origin|nonce".
         var normalized = state.replace(/-/g, '+').replace(/_/g, '/');
         // Pad to multiple of 4.
         while (normalized.length % 4) normalized += '=';
-        origin = atob(normalized);
+        var decoded = atob(normalized);
+        var pipeIdx = decoded.lastIndexOf('|');
+        if (pipeIdx === -1) { showError('Invalid state format.'); return; }
+        origin = decoded.substring(0, pipeIdx);
+        nonce = decoded.substring(pipeIdx + 1);
       } catch (e) {
         showError('Invalid state parameter.');
         return;
@@ -96,13 +100,11 @@
         return;
       }
 
-      // Rebuild the target URL: {origin}/plugins/btcmap/oauth/callback?code={code}
-      // We deliberately do not forward state onward — the BTCPay instance already
-      // has the PKCE code_verifier in its settings and does not need state to
-      // identify the in-flight flow.
+      // Rebuild the target URL with auth code and state nonce for CSRF validation.
       url.pathname = '/plugins/btcmap/oauth/callback';
       url.search = '';
       url.searchParams.set('code', code);
+      url.searchParams.set('state_nonce', nonce);
 
       // Use replace() so the auth code does not remain in this domain's history.
       window.location.replace(url.toString());

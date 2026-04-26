@@ -15,7 +15,7 @@
   {
     "name": "Altair Technology",
     "url": "https://altairtech.io/",
-    "description": "We are a Missouri based bitcoin mining company that’s building a one-stop-shop for all popular bitcoin mining hardware.",
+    "description": "We are a Missouri based bitcoin mining company that\u2019s building a one-stop-shop for all popular bitcoin mining hardware.",
     "type": "merchants",
     "subType": "electronics",
     "twitter": "@altair_tech"
@@ -23,7 +23,7 @@
   {
     "name": "Andreas Antonopoulos",
     "url": "https://aantonop.com/shop/",
-    "description": "Andreas M. Antonopoulos is a best-selling author, speaker, educator, and one of the world’s foremost bitcoin and open blockchain experts. He just launched a shop that sells crypto-currency apparel and paraphernalia. The shop uses BTCPay Server on checkout.",
+    "description": "Andreas M. Antonopoulos is a best-selling author, speaker, educator, and one of the world\u2019s foremost bitcoin and open blockchain experts. He just launched a shop that sells crypto-currency apparel and paraphernalia. The shop uses BTCPay Server on checkout.",
     "type": "merchants",
     "subType": "cryptocurrency-paraphernalia"
   },
@@ -37,7 +37,7 @@
   {
     "name": "Arbol de maple",
     "url": "https://www.arboldemaple.com/",
-    "description": "Fabrica de muebles para niños, para centros infantiles y para el hogar.",
+    "description": "Fabrica de muebles para ni\u00F1os, para centros infantiles y para el hogar.",
     "type": "merchants",
     "subType": "appliances-furniture"
   },
@@ -51,7 +51,7 @@
   {
     "name": "Atlasarms",
     "url": "https://www.atlasarms.org/",
-    "description": "Atlasarms is an open-source project seeking to outflank the US regulators' definitions and imaginations in regards to armor penetrating ammunition. They accept donations using a custom BTCPay Server button.",
+    "description": "Atlasarms is an open-source project seeking to outflank the US regulators\u0027 definitions and imaginations in regards to armor penetrating ammunition. They accept donations using a custom BTCPay Server button.",
     "type": "merchants",
     "subType": "tools"
   },
@@ -72,13 +72,13 @@
   {
     "name": "Biker for Kids e.V.",
     "url": "https://www.km-projektplan.de/biker-for-kids-cologne-e-v/",
-    "description": "Biker For Kids Cologne e.V. freut sich über Ihre Spende per Bitcoin oder Lightning. Herzlich willkommen bei den Biker-Weihnachtsmännern.",
+    "description": "Biker For Kids Cologne e.V. freut sich \u00FCber Ihre Spende per Bitcoin oder Lightning. Herzlich willkommen bei den Biker-Weihnachtsm\u00E4nnern.",
     "type": "non-profits"
   },
   {
     "name": "Bikini-mitte",
     "url": "http://www.bikini-mitte.com/",
-    "description": "Bikini-mitte is a Deli & Bar located in Munich, Germany that accepts Bitcoin through the Lightning Network.",
+    "description": "Bikini-mitte is a Deli \u0026 Bar located in Munich, Germany that accepts Bitcoin through the Lightning Network.",
     "type": "merchants",
     "subType": "food"
   },
@@ -88,6 +88,13 @@
     "description": "Bit T-Shirts sells art-on-a-shirt. The theme is IT (and pop culture), with clever and unique designs. From the geeks, for the geeks.",
     "type": "merchants",
     "subType": "art"
+  },
+  {
+    "name": "Bitasha",
+    "url": "https://bitasha.com/",
+    "type": "merchants",
+    "subType": "electronics",
+    "description": "Bitasha is a open Source Bitcoin ASIC Home Miner which is built by Indians for India"
   },
   {
     "name": "Bitcoin Aruba",
@@ -133,7 +140,7 @@
   {
     "name": "Bitcoin Kenya",
     "url": "https://bitcoin.co.ke/",
-    "description": "Kenya's home for Bitcoin payments. bitcoin.co.ke hosts a BTCPay Server so any Kenyan business can accept BTC directly to their own wallet.",
+    "description": "Kenya\u0027s home for Bitcoin payments. bitcoin.co.ke hosts a BTCPay Server so any Kenyan business can accept BTC directly to their own wallet.",
     "type": "hosted-btcpay",
     "country": "KE",
     "twitter": "@tando_me"
@@ -206,6 +213,14 @@
     "type": "non-profits"
   },
   {
+    "name": "Blockchange",
+    "url": "https://www.blockchange.expert",
+    "type": "merchants",
+    "subType": "payment-services",
+    "description": "We design complete value flows across cards, banks, and local rails, with final settlement in bitcoin or stablecoins. Chargeback-free by design.",
+    "twitter": "BlockchangeExp"
+  },
+  {
     "name": "Blockobit",
     "url": "https://c.blockobit.com",
     "description": "BTCPay instance for merchants who do not want to host BTCPay themselves.",
@@ -248,9 +263,9 @@
     "subType": "food"
   },
   {
-    "name": "Britttttk’s Donation App",
+    "name": "Britttttk\u2019s Donation App",
     "url": "https://btcps0.com/",
-    "description": "This is Britttttk’s BTCPayServer donation app. She manages all the translations that need be done for the BTCPayServer and contributes to the documentation.",
+    "description": "This is Britttttk\u2019s BTCPayServer donation app. She manages all the translations that need be done for the BTCPayServer and contributes to the documentation.",
     "type": "non-profits"
   },
   {
@@ -278,7 +293,7 @@
   {
     "name": "BTCPay Server Hosting",
     "url": "https://www.privacyauditor.institute/btcpayserver-hosting/",
-    "description": "Low-cost BTCPay Server hosting — from Privacy Auditor Institute — Dutch expats in El Salvador — the world's first Bitcoin nation — with privacy-first infrastructure on secure, encrypted Flokinet servers in free-speech Iceland.",
+    "description": "Low-cost BTCPay Server hosting \u2014 from Privacy Auditor Institute \u2014 Dutch expats in El Salvador \u2014 the world\u0027s first Bitcoin nation \u2014 with privacy-first infrastructure on secure, encrypted Flokinet servers in free-speech Iceland.",
     "type": "hosted-btcpay",
     "twitter": "@privacy_auditor",
     "country": "IS"
@@ -302,7 +317,7 @@
   {
     "name": "BTCPins",
     "url": "https://btcpins.com/",
-    "description": "Bitcoin pins & stickers.",
+    "description": "Bitcoin pins \u0026 stickers.",
     "type": "merchants",
     "subType": "cryptocurrency-paraphernalia"
   },
@@ -330,7 +345,7 @@
   {
     "name": "Cajero",
     "url": "https://cajero.pe",
-    "description": "Facilitamos el acceso a pagos con bitcóin (BTC) a través de soluciones sobre BTCPayServer.",
+    "description": "Facilitamos el acceso a pagos con bitc\u00F3in (BTC) a trav\u00E9s de soluciones sobre BTCPayServer.",
     "type": "hosted-btcpay",
     "country": "PE",
     "twitter": "@CajeroBitcoin"
@@ -338,14 +353,14 @@
   {
     "name": "CheapAir.com",
     "url": "https://www.cheapair.com/",
-    "description": "Cheapair is a travel agency launched in 1989. They’re the first in their industry to accept Bitcoin. Company offers affordable airline tickets for flights around the globe.",
+    "description": "Cheapair is a travel agency launched in 1989. They\u2019re the first in their industry to accept Bitcoin. Company offers affordable airline tickets for flights around the globe.",
     "type": "merchants",
     "subType": "holiday-travel"
   },
   {
     "name": "Chef Marvin Gauci",
     "url": "https://marvingauci.com",
-    "description": "Malta’s gastronomic icon Chef Marvin Gauci, accepts bitcoin payments through BTCPay in all his restaurants.",
+    "description": "Malta\u2019s gastronomic icon Chef Marvin Gauci, accepts bitcoin payments through BTCPay in all his restaurants.",
     "type": "merchants",
     "subType": "food"
   },
@@ -380,7 +395,7 @@
   {
     "name": "Coin Monster",
     "url": "https://coinmonster.store",
-    "description": "Whether you’re a Bitcoin believer, an Ethereum enthusiast, or just crypto-curious, our curated collection of cryptocurrency-branded clothing, housewares, and accessories is sure to spark a conversation.",
+    "description": "Whether you\u2019re a Bitcoin believer, an Ethereum enthusiast, or just crypto-curious, our curated collection of cryptocurrency-branded clothing, housewares, and accessories is sure to spark a conversation.",
     "type": "merchants",
     "subType": "cryptocurrency-paraphernalia",
     "twitter": "@monsterofcoin",
@@ -402,7 +417,7 @@
   {
     "name": "Coins of Nakamoto",
     "url": "https://www.coinsofnakamoto.com/",
-    "description": "A small store that sells little Bitcoin related knick-knack. Some are fit for beginners (like the Satori's), some are fit for the serious collectors.",
+    "description": "A small store that sells little Bitcoin related knick-knack. Some are fit for beginners (like the Satori\u0027s), some are fit for the serious collectors.",
     "type": "merchants",
     "subType": "cryptocurrency-paraphernalia"
   },
@@ -491,14 +506,14 @@
     "subType": "electronics"
   },
   {
-    "name": "David Coen's BTCPay server",
+    "name": "David Coen\u0027s BTCPay server",
     "url": "https://btcpay.davidcoen.it/",
     "description": "btcpay.davidcoen.it is a free, BTCPay Server hosting provider for stores. The website tries to maintain the cost of hosting using fees from routing events on Lightning Network. Soon LN Bank will be available on this server, so stay tuned!",
     "type": "hosted-btcpay",
     "country": "IT"
   },
   {
-    "name": "DentÜröm",
+    "name": "Dent\u00DCr\u00F6m",
     "url": "https://denturom.hu",
     "description": "Private dentistry",
     "type": "merchants",
@@ -529,7 +544,7 @@
   {
     "name": "DNSCrypt Poland",
     "url": "https://dnscrypt.pl/",
-    "description": "DNSCrypt Poland provides free, non-logged and uncensored DNS encryption to anyone willing to use it. It is located in a Beyond Data Center in E24Cloud in Poznań, Poland. Open to any user in the world.",
+    "description": "DNSCrypt Poland provides free, non-logged and uncensored DNS encryption to anyone willing to use it. It is located in a Beyond Data Center in E24Cloud in Pozna\u0144, Poland. Open to any user in the world.",
     "type": "non-profits"
   },
   {
@@ -544,6 +559,14 @@
     "description": "Hard drives, SSDs and other data recovery tools shipped globally. Based in US.",
     "type": "merchants",
     "subType": "electronics"
+  },
+  {
+    "name": "EasyMerchant",
+    "url": "https://btcpay870642.lndyn.com/plan-checkout/plancheckout_HaiUHtKgagSa7nGn2w",
+    "type": "hosted-btcpay",
+    "country": "GLOBAL",
+    "twitter": "EasySats_",
+    "description": "Whether you\u0027re a Merchant ready to accept Bitcoin or a pioneer ready to expand the network, the TimeForce starts here with EasyMerchant"
   },
   {
     "name": "Edberg Store",
@@ -569,7 +592,7 @@
   {
     "name": "Elephant Chateau",
     "url": "https://elephantchateau.com/",
-    "description": "Experience The World's Finest Teas & Spices (Free US Shipping + Bitcoin Accepted).",
+    "description": "Experience The World\u0027s Finest Teas \u0026 Spices (Free US Shipping \u002B Bitcoin Accepted).",
     "type": "merchants",
     "subType": "food"
   },
@@ -597,14 +620,14 @@
   {
     "name": "First Class CBD",
     "url": "https://firstclass-cbd.ch/",
-    "description": "CBD Oil & Extracts made in Switzerland.",
+    "description": "CBD Oil \u0026 Extracts made in Switzerland.",
     "type": "merchants",
     "subType": "health-household"
   },
   {
     "name": "Foundation Devices",
     "url": "https://foundationdevices.com/",
-    "description": "Foundation Devices is building open hardware for Bitcoin and a sovereign, decentralized Internet – starting with a Bitcoin hardware wallet called Passport.",
+    "description": "Foundation Devices is building open hardware for Bitcoin and a sovereign, decentralized Internet \u2013 starting with a Bitcoin hardware wallet called Passport.",
     "type": "merchants",
     "subType": "electronics"
   },
@@ -618,7 +641,7 @@
   {
     "name": "Funabiki",
     "url": "https://funabiki.info/",
-    "description": "Funabiki Shoten sells high quality oysters from around the Harima-Nada area of Japan’s Setouchi Inland Sea.",
+    "description": "Funabiki Shoten sells high quality oysters from around the Harima-Nada area of Japan\u2019s Setouchi Inland Sea.",
     "type": "merchants",
     "subType": "food"
   },
@@ -660,7 +683,7 @@
   {
     "name": "GoGetFunding",
     "url": "https://gogetfunding.com/crypto-crowdfunding-raise-money-in-bitcoin/",
-    "description": "GoGetFunding is a fundraising website for personal causes. Established in 2011, we've now added Bitcoin payment integration (via BTCPay) to help more people around the world raise money more easily & with lower fees.",
+    "description": "GoGetFunding is a fundraising website for personal causes. Established in 2011, we\u0027ve now added Bitcoin payment integration (via BTCPay) to help more people around the world raise money more easily \u0026 with lower fees.",
     "type": "merchants",
     "subType": "services",
     "twitter": "@GoGetFunding"
@@ -681,7 +704,7 @@
     "subType": "software-video-games"
   },
   {
-    "name": "Guns n' Bitcoin",
+    "name": "Guns n\u0027 Bitcoin",
     "url": "https://gunsnbitcoin.com/",
     "description": "gunsnbitcoin.com provides physical security products and crypto related accessories.",
     "type": "merchants",
@@ -690,7 +713,7 @@
   {
     "name": "Hello Merch",
     "url": "https://hellomerch.com",
-    "description": "Your favorite band's merch.",
+    "description": "Your favorite band\u0027s merch.",
     "type": "merchants",
     "subType": "art"
   },
@@ -718,7 +741,7 @@
   {
     "name": "Holycrab",
     "url": "https://www.holycrab.sg/",
-    "description": "Holycrab’s signatures are the Orgasmic, Balsamic, Succumb and Devil’s crab.",
+    "description": "Holycrab\u2019s signatures are the Orgasmic, Balsamic, Succumb and Devil\u2019s crab.",
     "type": "merchants",
     "subType": "food"
   },
@@ -748,9 +771,9 @@
     "type": "non-profits"
   },
   {
-    "name": "Hyke & Byke",
+    "name": "Hyke \u0026 Byke",
     "url": "https://www.hykeandbyke.com/",
-    "description": "Hyke & Byke was founded with one core mission: to get backpackers and outdoor enthusiasts premium, lightweight, comfortable gear for sleeping outside -- at the best price possible.",
+    "description": "Hyke \u0026 Byke was founded with one core mission: to get backpackers and outdoor enthusiasts premium, lightweight, comfortable gear for sleeping outside -- at the best price possible.",
     "type": "merchants",
     "subType": "holiday-travel"
   },
@@ -786,7 +809,7 @@
   {
     "name": "IVPN",
     "url": "https://www.ivpn.net/",
-    "description": "IVPN is a VPN that doesn’t log, track or spy in any way. They accept Bitcoin by using BTCPayServer on their checkout.",
+    "description": "IVPN is a VPN that doesn\u2019t log, track or spy in any way. They accept Bitcoin by using BTCPayServer on their checkout.",
     "type": "merchants",
     "subType": "domains-hosting-vpns"
   },
@@ -799,7 +822,7 @@
     "twitter": "@ixtechcrypto"
   },
   {
-    "name": "Johnny’s Gardens",
+    "name": "Johnny\u2019s Gardens",
     "url": "https://johnnysgardens.com/",
     "description": "Installation of garden beds with support of the garden.",
     "type": "merchants",
@@ -815,7 +838,7 @@
   {
     "name": "Joo Bar",
     "url": "https://www.joo-bar.com/",
-    "description": "A Modern Korean Makgeoli Bar. Opening hours:- 12pm – 12am. Monday to Saturday. CLOSED ON SUNDAY",
+    "description": "A Modern Korean Makgeoli Bar. Opening hours:- 12pm \u2013 12am. Monday to Saturday. CLOSED ON SUNDAY",
     "type": "merchants",
     "subType": "food"
   },
@@ -836,7 +859,7 @@
   {
     "name": "Kiosk",
     "url": "http://shop.k-i-o-s-k.com/",
-    "description": "Kiosk is an independent publisher which focuses on self-published zines & books with emerging creatives.",
+    "description": "Kiosk is an independent publisher which focuses on self-published zines \u0026 books with emerging creatives.",
     "type": "merchants",
     "subType": "art"
   },
@@ -848,20 +871,20 @@
     "subType": "cryptocurrency-paraphernalia"
   },
   {
-    "name": "Kukks’s Donation App",
+    "name": "Kukks\u2019s Donation App",
     "url": "https://donate.kukks.org/",
-    "description": "This is Kukks’s BTCPayServer donation app. He is a long time coding contributor to the project.",
+    "description": "This is Kukks\u2019s BTCPayServer donation app. He is a long time coding contributor to the project.",
     "type": "non-profits"
   },
   {
-    "name": "Le Maxine's bar",
+    "name": "Le Maxine\u0027s bar",
     "url": "https://btcpay.bitcoin-lyon.fr/apps/2WoGzeFotWBpVRi5LwDBrNtu75Qb/pos",
-    "description": "Maxine's is nestled in the 1st arrondissement of Lyon, on a street perpendicular to Burdeau Street and easily accessible from the station Croix Paquet. Maxine's will satisfy everyone's needs with its various drinks: wines, cocktails, spirits, beers and all at low prices. They use BTCPay Server as a Point of Sales solution. Official website: maxines.fr/en",
+    "description": "Maxine\u0027s is nestled in the 1st arrondissement of Lyon, on a street perpendicular to Burdeau Street and easily accessible from the station Croix Paquet. Maxine\u0027s will satisfy everyone\u0027s needs with its various drinks: wines, cocktails, spirits, beers and all at low prices. They use BTCPay Server as a Point of Sales solution. Official website: maxines.fr/en",
     "type": "merchants",
     "subType": "food"
   },
   {
-    "name": "Let's Fo Live",
+    "name": "Let\u0027s Fo Live",
     "url": "https://live.letsfo.com/",
     "description": "A self-hosted Nostr livestream platform that integrates BTCPay Server for Bitcoin payments, enabling creators to unlock and manage livestream capabilities without intermediaries.",
     "type": "merchants",
@@ -946,21 +969,28 @@
   {
     "name": "Mad Gringo Hot Sauce",
     "url": "https://canadianhotsauce.com/",
-    "description": "Mad Gringo Hot Sauce™ Established 2012 Canadian owned and operatedAfter, leaving his job in corporate trade and returning from a life-changing trip to South America Jordan realized that going back to a desk job was not in the cards for him.",
+    "description": "Mad Gringo Hot Sauce\u2122 Established 2012 Canadian owned and operatedAfter, leaving his job in corporate trade and returning from a life-changing trip to South America Jordan realized that going back to a desk job was not in the cards for him.",
     "type": "merchants",
     "subType": "food"
   },
   {
+    "name": "MAGIC Grants",
+    "url": "https://donate.magicgrants.org",
+    "twitter": "@MAGICGrants",
+    "type": "non-profits",
+    "description": "MAGIC Grants provides scholarships for students interested in cryptocurrencies and privacy, supports public cryptocurrency infrastructure, and promotes privacy."
+  },
+  {
     "name": "marcsteiner.tech",
     "url": "https://www.marcsteiner.tech",
-    "description": "On marcsteiner.tech you can buy the German book 'Kryptos verwahren und vererben' (Crypto inheritance book) with BTCPay or read blog articles about Bitcoin related topics.",
+    "description": "On marcsteiner.tech you can buy the German book \u0027Kryptos verwahren und vererben\u0027 (Crypto inheritance book) with BTCPay or read blog articles about Bitcoin related topics.",
     "type": "merchants",
     "subType": "books"
   },
   {
     "name": "Matratzen Kontor",
     "url": "https://www.matratzen-kontor.de/",
-    "description": "Mattresses made by experienced craftsmanship. Matratzen für Ihre Bedürfnisse.",
+    "description": "Mattresses made by experienced craftsmanship. Matratzen f\u00FCr Ihre Bed\u00FCrfnisse.",
     "type": "merchants",
     "subType": "health-household"
   },
@@ -982,7 +1012,7 @@
   {
     "name": "Modurist Design",
     "url": "https://www.modurist.com/",
-    "description": "Branding & logo design services for organisations, teams, streamers and gamers. Accepting cryptocurrencies and using BTCPay Server for the premades shop.",
+    "description": "Branding \u0026 logo design services for organisations, teams, streamers and gamers. Accepting cryptocurrencies and using BTCPay Server for the premades shop.",
     "type": "merchants",
     "subType": "art"
   },
@@ -1016,7 +1046,7 @@
   {
     "name": "Namecheap",
     "url": "https://www.namecheap.com/",
-    "description": "Powering Internet freedom through domains, hosting, security, and more — everything you need to make more online, for less. Namecheap uses BTCPay Server in their top-up section.",
+    "description": "Powering Internet freedom through domains, hosting, security, and more \u2014 everything you need to make more online, for less. Namecheap uses BTCPay Server in their top-up section.",
     "type": "merchants",
     "subType": "domains-hosting-vpns"
   },
@@ -1028,22 +1058,29 @@
     "subType": "food"
   },
   {
-    "name": "Nicolas Dorier’s Donation App",
+    "name": "Nicolas Dorier\u2019s Donation App",
     "url": "https://donate.nicolas-dorier.com/",
-    "description": "This is Nicolas Dorier’s BTCPayServer donation app. He is the main coder of BTCPayServer and the individual who started the project in the first place. He loves Docker and Sushi!",
+    "description": "This is Nicolas Dorier\u2019s BTCPayServer donation app. He is the main coder of BTCPayServer and the individual who started the project in the first place. He loves Docker and Sushi!",
     "type": "non-profits"
   },
   {
     "name": "Nodl",
     "url": "https://shop.nodl.it/en/",
-    "description": "Nodl’s official store. Company based in France, selling Bitcoin and Lightning Network full nodes, stickers, hoodies and more.",
+    "description": "Nodl\u2019s official store. Company based in France, selling Bitcoin and Lightning Network full nodes, stickers, hoodies and more.",
     "type": "merchants",
     "subType": "electronics"
   },
   {
+    "name": "Northwest Vapors",
+    "url": "https://nwvliquids.com",
+    "type": "merchants",
+    "subType": "health-household",
+    "description": "We have been manufacturing quality e-liquids since 2011 at Northwest Vapors"
+  },
+  {
     "name": "Nym VPN",
     "url": "https://nym.com",
-    "description": "The world's most private VPN. Two VPN modes to balance your needs for speed and anonymity.",
+    "description": "The world\u0027s most private VPN. Two VPN modes to balance your needs for speed and anonymity.",
     "type": "merchants",
     "subType": "domains-hosting-vpns"
   },
@@ -1064,9 +1101,16 @@
   {
     "name": "ONG Bitcoin Chile",
     "url": "https://achicrip.org/servicios/transbit/",
-    "description": "Trans₿IT es nuestra solución que ofrecemos a comercios que quieran recibir pagos P2P en Bitcoin, sin comisiones, sin custodia y sin KYC. Ofrecemos documentación y soporte técnico completamente en español. Basado en la implementación de BTCPay Server.",
+    "description": "Trans\u20BFIT es nuestra soluci\u00F3n que ofrecemos a comercios que quieran recibir pagos P2P en Bitcoin, sin comisiones, sin custodia y sin KYC. Ofrecemos documentaci\u00F3n y soporte t\u00E9cnico completamente en espa\u00F1ol. Basado en la implementaci\u00F3n de BTCPay Server.",
     "type": "hosted-btcpay",
     "country": "CL"
+  },
+  {
+    "name": "Paco de la India",
+    "url": "https://pacodelaindia.com/",
+    "type": "merchants",
+    "subType": "books",
+    "description": "A 2-Year Journey Across 42 Countries over 800 days using bitcoin. The book is a tell-all covering paco journey"
   },
   {
     "name": "Paralelna Polis",
@@ -1083,9 +1127,9 @@
     "subType": "education"
   },
   {
-    "name": "Pavlenex’s Donation App",
+    "name": "Pavlenex\u2019s Donation App",
     "url": "https://donate.pavlenex.com",
-    "description": "This is Pavlenex’s BTCPayServer donation app.",
+    "description": "This is Pavlenex\u2019s BTCPayServer donation app.",
     "type": "non-profits"
   },
   {
@@ -1096,9 +1140,16 @@
     "country": "GLOBAL"
   },
   {
+    "name": "PayInBTC",
+    "url": "https://payinbtc.me",
+    "type": "apps",
+    "twitter": "@payinbtc_me",
+    "description": "Connect your accounting software to your BTCPay instance and get a bticoin payment link on all your invoices. Works with Quickbooks, Xero, Zoho, Sage, Simplbooks and more."
+  },
+  {
     "name": "PikaSim",
     "url": "https://pikasim.com",
-    "description": "Privacy-focused eSIM provider for 170+ countries. No account required, no ID upload. Accepts Bitcoin on-chain, Lightning Network, and Monero via self-hosted BTCPay Server.",
+    "description": "Privacy-focused eSIM provider for 170\u002B countries. No account required, no ID upload. Accepts Bitcoin on-chain, Lightning Network, and Monero via self-hosted BTCPay Server.",
     "type": "merchants",
     "subType": "holiday-travel",
     "twitter": "@PikaSim"
@@ -1160,9 +1211,9 @@
     "subType": "services"
   },
   {
-    "name": "Regarding Fresh ®",
+    "name": "Regarding Fresh \u00AE",
     "url": "https://www.regardingfresh.com/shop",
-    "description": "Regarding Fresh ® is a luxury Fashion and Lifestyle retailer located in New Orleans! Curating globally sourced brands, and designers!",
+    "description": "Regarding Fresh \u00AE is a luxury Fashion and Lifestyle retailer located in New Orleans! Curating globally sourced brands, and designers!",
     "type": "merchants",
     "subType": "fashion",
     "twitter": "@refresh223"
@@ -1211,14 +1262,14 @@
     "subType": "sports"
   },
   {
-    "name": "Satoshi's Page",
+    "name": "Satoshi\u0027s Page",
     "url": "https://satoshispage.com/",
-    "description": "Buy author Victoria Collette Jones's book - How Bitcoin Fixes This - with Bitcoin using BTCPay Server directly on the website.",
+    "description": "Buy author Victoria Collette Jones\u0027s book - How Bitcoin Fixes This - with Bitcoin using BTCPay Server directly on the website.",
     "type": "merchants",
     "subType": "books"
   },
   {
-    "name": "Satoshi's Store",
+    "name": "Satoshi\u0027s Store",
     "url": "https://satoshi.lol",
     "description": "Discover the ultimate expression of your crypto enthusiasm with our wide-ranging collection of Bitcoin-themed clothing, accessories, hats, and more. Embrace the Bitcoin lifestyle with high-quality, stylish products.",
     "type": "merchants",
@@ -1228,7 +1279,7 @@
   {
     "name": "Satoshihost",
     "url": "https://satoshihost.com/",
-    "description": "Simple bitcoin hostingBitcoin and lightning paymentswhy pay for someone else's hosting? Pay only for what you use.",
+    "description": "Simple bitcoin hostingBitcoin and lightning paymentswhy pay for someone else\u0027s hosting? Pay only for what you use.",
     "type": "merchants",
     "subType": "services"
   },
@@ -1321,7 +1372,7 @@
   {
     "name": "SweetSats",
     "url": "https://sweetsats.io/",
-    "description": "Trading pure honey, maple syrup and other homemade & homegrown products for Bitcoin!",
+    "description": "Trading pure honey, maple syrup and other homemade \u0026 homegrown products for Bitcoin!",
     "type": "merchants",
     "subType": "food"
   },
@@ -1339,6 +1390,17 @@
     "type": "apps",
     "twitter": "@technoprepay",
     "github": "https://github.com/TechnoprepaySolutions"
+  },
+  {
+    "name": "Test Store",
+    "url": "https://github.com/rollforsats/BTCPayServerPlugins",
+    "description": "test",
+    "type": "merchants",
+    "subType": "food",
+    "country": "US",
+    "twitter": "@rollforsats",
+    "github": "https://github.com/rollforsats/BTCPayServerPlugins",
+    "onionUrl": "http://localhost.onion"
   },
   {
     "name": "TFTC",
@@ -1374,6 +1436,13 @@
     "type": "non-profits"
   },
   {
+    "name": "Tour Guide Lite",
+    "url": "https://tourguidelite.wificlashroom.online/",
+    "type": "merchants",
+    "subType": "tools",
+    "description": "TourGuideLite is the pay-as-you-go version of TourGuidePro. No monthly subscription, no commitment. You buy credits, each credit gives you one room session."
+  },
+  {
     "name": "Towards Liberty",
     "url": "https://towardsliberty.com/",
     "description": "The Agora Towards Liberty is a gathering place for peers to foster a holistic understanding of applied freedom strategies with tailor made education for your individual curiosity. Using the ancient Socratic method of truth discovery through reasoning and gathering with peers to discuss in depth any topic worth understanding. Also reachable through Tor.",
@@ -1382,15 +1451,15 @@
     "onionUrl": "http://2wp7zwpx6myz7kbdjuthmtccvs6p3tildwhrnm4zmv2fnizrfeo7hvyd.onion/"
   },
   {
-    "name": "Ubolator's donation page",
+    "name": "Ubolator\u0027s donation page",
     "url": "https://donate.umar-bolatov.com/",
-    "description": "Ubolator's donation app page.",
+    "description": "Ubolator\u0027s donation app page.",
     "type": "non-profits"
   },
   {
     "name": "VerifiedBitcoin.com",
     "url": "https://verifiedbitcoin.com",
-    "description": "At VerifiedBitcoin.com we’re passionate about fostering an inclusive digital economy and breaking down barriers for merchants everywhere. By providing this service at no charge, we hope to encourage more retailers to dive into the world of Bitcoin.",
+    "description": "At VerifiedBitcoin.com we\u2019re passionate about fostering an inclusive digital economy and breaking down barriers for merchants everywhere. By providing this service at no charge, we hope to encourage more retailers to dive into the world of Bitcoin.",
     "type": "hosted-btcpay",
     "github": "https://github.com/Brad-CurrencyHub",
     "country": "GLOBAL"
@@ -1398,7 +1467,7 @@
   {
     "name": "Villaggio Bitcoin",
     "url": "https://www.villaggiobitcoin.it/",
-    "description": "Brick-and-mortar Bitcoin education Center located in northern Italy.Consulting and training courses for businesses and individuals. Helping merchants get paid in btc. Two self-published books: \"Bitcoin Village\"",
+    "description": "Brick-and-mortar Bitcoin education Center located in northern Italy.Consulting and training courses for businesses and individuals. Helping merchants get paid in btc. Two self-published books: \u0022Bitcoin Village\u0022",
     "type": "hosted-btcpay",
     "twitter": "@villaggiobtc",
     "github": "https://github.com/villaggiobtc",
@@ -1411,6 +1480,14 @@
     "type": "hosted-btcpay",
     "twitter": "@Voltage_BTC",
     "country": "US"
+  },
+  {
+    "name": "Way of Bitcoin",
+    "url": "https://wayofbitcoin.com",
+    "twitter": "@alanbwt",
+    "type": "merchants",
+    "subType": "books",
+    "description": "A philosophical guide to Bitcoin as a discipline and a way of life. Published by Hyperborean Press. Pay on-chain or with lightning via BTCPay Server Shopify V2."
   },
   {
     "name": "We BTC",
@@ -1442,7 +1519,7 @@
   {
     "name": "withBitcoin.org",
     "url": "https://withbitcoin.org/",
-    "description": "Secure & low cost BTCPay Server host. Free trial, no hot wallets, many plugins enabled. We've processed over $1MM of BTC transactions since 2021.",
+    "description": "Secure \u0026 low cost BTCPay Server host. Free trial, no hot wallets, many plugins enabled. We\u0027ve processed over $1MM of BTC transactions since 2021.",
     "type": "hosted-btcpay",
     "twitter": "@scottpruett",
     "country": "GLOBAL"
@@ -1450,7 +1527,7 @@
   {
     "name": "Yeewu",
     "url": "https://yeewu.net/a-propos/",
-    "description": "Yeewu is a mouvement of young senegaleses that are trying to revive the 'ceddo' spirit in youth minds. We write articles, make videos and educate young people about every aspect of the society. We teach people about bitcoin too.",
+    "description": "Yeewu is a mouvement of young senegaleses that are trying to revive the \u0027ceddo\u0027 spirit in youth minds. We write articles, make videos and educate young people about every aspect of the society. We teach people about bitcoin too.",
     "type": "non-profits"
   },
   {
@@ -1463,7 +1540,7 @@
   {
     "name": "Youtube Recommendation Modifier",
     "url": "https://microsoftedge.microsoft.com/addons/detail/youtube-recommendation-mo/lifhdhloggjmjfbhbgnjfjbhjfidinol",
-    "description": "A chrome extension that gives power💪 to the user to modify their YouTube homepage Recommendation in order to increase their productivity 😎. It is free of charge. We created it because we badly needed it for our own use, and wanted to share it with the world 😊.",
+    "description": "A chrome extension that gives power\uD83D\uDCAA to the user to modify their YouTube homepage Recommendation in order to increase their productivity \uD83D\uDE0E. It is free of charge. We created it because we badly needed it for our own use, and wanted to share it with the world \uD83D\uDE0A.",
     "type": "non-profits"
   },
   {
@@ -1472,71 +1549,5 @@
     "description": "BTCPay Server installation provided in the Slovak language for educational and training purposes.",
     "type": "hosted-btcpay",
     "country": "SK"
-  },
-  {
-    "name": "MAGIC Grants",
-    "url": "https://donate.magicgrants.org",
-    "twitter": "@MAGICGrants",
-    "type": "non-profits",
-    "description": "MAGIC Grants provides scholarships for students interested in cryptocurrencies and privacy, supports public cryptocurrency infrastructure, and promotes privacy."
-  },
-  {
-    "name": "Way of Bitcoin",
-    "url": "https://wayofbitcoin.com",
-    "twitter": "@alanbwt",
-    "type": "merchants",
-    "subType": "books",
-    "description": "A philosophical guide to Bitcoin as a discipline and a way of life. Published by Hyperborean Press. Pay on-chain or with lightning via BTCPay Server Shopify V2."
-  },
-  {
-    "name": "Bitasha",
-    "url": "https://bitasha.com/",
-    "type": "merchants",
-    "subType": "electronics",
-    "description": "Bitasha is a open Source Bitcoin ASIC Home Miner which is built by Indians for India"
-  },
-  {
-    "name": "Paco de la India",
-    "url": "https://pacodelaindia.com/",
-    "type": "merchants",
-    "subType": "books",
-    "description": "A 2-Year Journey Across 42 Countries over 800 days using bitcoin. The book is a tell-all covering paco journey"
-  },
-  {
-    "name": "PayInBTC",
-    "url": "https://payinbtc.me",
-    "type": "apps",
-    "twitter": "@payinbtc_me",
-    "description": "Connect your accounting software to your BTCPay instance and get a bticoin payment link on all your invoices. Works with Quickbooks, Xero, Zoho, Sage, Simplbooks and more."
-  },
-  {
-    "name": "EasyMerchant",
-    "url": "https://btcpay870642.lndyn.com/plan-checkout/plancheckout_HaiUHtKgagSa7nGn2w",
-    "type": "hosted-btcpay",
-    "country": "GLOBAL",
-    "twitter": "EasySats_",
-    "description": "Whether you're a Merchant ready to accept Bitcoin or a pioneer ready to expand the network, the TimeForce starts here with EasyMerchant"
-  },
-  {
-    "name": "Northwest Vapors",
-    "url": "https://nwvliquids.com",
-    "type": "merchants",
-    "subType": "health-household",
-    "description": "We have been manufacturing quality e-liquids since 2011 at Northwest Vapors"
-  },
-  {
-    "name": "Blockchange",
-    "url": "https://www.blockchange.expert",
-    "type": "merchants",
-    "subType": "payment-services",
-    "description": "We design complete value flows across cards, banks, and local rails, with final settlement in bitcoin or stablecoins. Chargeback-free by design.",
-    "twitter": "BlockchangeExp"
-  },
-  {
-    "name": "Tour Guide Lite",
-    "url": "https://tourguidelite.wificlashroom.online/",
-    "type": "merchants",
-    "subType": "tools",
-    "description": "TourGuideLite is the pay-as-you-go version of TourGuidePro. No monthly subscription, no commitment. You buy credits, each credit gives you one room session."
   }
 ]
